@@ -8,13 +8,6 @@ It is a proof of concept. Check the Disclaimer below.
 
 This is an attempt at learning micro-services and asyncronous messaging that started as simply a "Point of Sale" app.
 
-Due to its nature, learn as you go, this is not the most complete sample.
-
-### The Purpose
-
-To learn and share knowledge on how to design and implement a complex project based on [micro] services. And to have fun, at the same time. :) 
-
-Feel free to take inspiration from this work of art!
 
 ### Development approach
 
@@ -32,12 +25,6 @@ SQL Server, Nginx, RabbitMQ, and Redis, are all running in Docker. Check ```tye.
 
 The main services are: Carts, Catalog, Customers, Billing. The supporting project is Marketing which house the Discounts. The rest are in a basic state, with some not interacting with the main app.
 
-## Disclaimer
-
-This is an educational effort that was created for fun when trying to understand the domain and how to implement it.
-It has never been made with any intention to be set into production.
-
-It SHOULD NOT be used in production.
 
 ## How to run
 
