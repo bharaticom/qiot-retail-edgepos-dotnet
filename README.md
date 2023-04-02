@@ -2,13 +2,6 @@
  
 A Point of Sale app - demonstrating a distributed system supported by a well-crafted UI.
 
-It is a proof of concept. Check the Disclaimer below.
-
-## Background
-
-This is an attempt at learning micro-services and asyncronous messaging that started as simply a "Point of Sale" app.
-
-
 ### Development approach
 
 It started when crafting a UI and adding the basic functionality. Thinking about the domain, what a User would expect from an app such as this - a general Behavior-centric approach to development.
