@@ -4,12 +4,6 @@ A Point of Sale app - demonstrating a distributed system supported by a well-cra
 
 It is a proof of concept. Check the Disclaimer below.
 
-## Videos
-
-* [General checkout UI](https://www.youtube.com/watch?v=wDP1ShXDgY8)
-* [Auto-apply discount to item](https://www.youtube.com/watch?v=5MCQMhSh_gg)
-* [Hypermedia API](https://www.youtube.com/watch?v=LbCUFEter_A)
-
 ## Background
 
 This is an attempt at learning micro-services and asyncronous messaging that started as simply a "Point of Sale" app.
